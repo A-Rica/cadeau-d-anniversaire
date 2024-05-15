@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+
+.section-backgrounds {
+  display: flex;
+  flex-direction: column;
+  background-image: url("/IMAGE/Seamless-Photoshop-Paper-Pattern.png");
+  max-width: 90%;
+  padding: 10px;
+  margin: auto;
+}
+.section-backgrounds h1 {
+  display: flex;
+  margin: auto;
+}
+.section-backgrounds .article-backgrounds {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: 60px;
+}
+.section-backgrounds .article-backgrounds .bloc-article-perso {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin-left: 20px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-left: auto;
+  border-top: 2px solid white;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  background-color: white;
+  width: 300px;
+  height: 438.3px;
+}
+.section-backgrounds .article-backgrounds .bloc-article-perso .img-bloc-perso {
+  width: 300px;
+}
+.section-backgrounds .article-backgrounds .bloc-article-perso .button-message-perso {
+  display: flex;
+  margin-top: -35px;
+  cursor: pointer;
+}
+.section-backgrounds .article-backgrounds .bloc-article-perso .button-message-perso span {
+  width: 100%;
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+}
+.section-backgrounds .article-backgrounds .bloc-article-perso .message-perso {
+  width: 280px;
+  height: 385px;
+  background-color: white;
+  text-align: justify;
+  padding: 10px;
+  overflow: auto;
+  transition: all 1000ms ease-in-out;
+  -webkit-transition: all 1000ms ease-in-out;
+  transition-delay: 500ms;
+  -webkit-transition-delay: 500ms;
+}/*# sourceMappingURL=style.css.map */
