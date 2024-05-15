@@ -5,14 +5,14 @@ body {
 .section-backgrounds {
   display: flex;
   flex-direction: column;
-  background-image: url("../IMAGE/Seamless-Photoshop-Paper-Pattern.png");
+  background-image: url("https://www.aht.li/3849851/Seamless-Photoshop-Paper-Pattern.png");
   max-width: 90%;
   padding: 10px;
   margin: auto;
 }
 .section-backgrounds h1 {
   display: flex;
- margin: auto;
+  margin: auto;
 }
 .section-backgrounds .article-backgrounds {
   display: flex;
