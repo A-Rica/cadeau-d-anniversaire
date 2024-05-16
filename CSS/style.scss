@@ -41,6 +41,72 @@ margin-top: 60px;
    width: 300px;
    height: 438.3px;
 
+   .img-Adam{
+      position: absolute;
+      width: 150px;
+      top: 420px;
+      left: 110px;
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
+
+    .img-Angie{
+      position: absolute;
+      width: 150px;
+      top: 50px;
+      left: 820px;
+transform: scaleX(-1);
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
+    .img-Vaggie{
+      position: absolute;
+      width: 150px;
+      top: 400px;
+      right: 120px;
+      transform: scaleX(-1);
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
+
+    .img-Val{
+      position: absolute;
+      width: 150px;
+      top: 600px;
+      left: 120px;
+      transform: scaleX(-1);
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
+    .img-Charlie{
+      position: absolute;
+      width: 150px;
+      top: 960px;
+      left: 570px;
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
+
+    .img-Rosie{
+      position: absolute;
+      width: 150px;
+      top: 560px;
+      right: 130px;
+      transition:all 1000ms ease-in-out; 
+      -webkit-transition:all 1000ms ease-in-out; 
+    transition-delay:500ms;
+    -webkit-transition-delay:500ms;
+    }
    .img-bloc-perso{
       width: 300px;
    }
